@@ -1,0 +1,84 @@
+#text-center{
+    padding-left: 100px;
+    color: white; 
+}
+
+#text-center:hover{
+    color: rgb(237, 168, 237)
+}
+
+input, placeholder{
+    padding-right: 0px;
+    width: 30%;
+    border-radius: 6px;
+
+}
+
+#Playlists{
+
+    text-decoration: none;
+    
+}
+
+#albums{
+    padding-left: 100px;
+    text-decoration: none;
+}
+
+#artists{
+    text-decoration: none;
+    padding-left: 100px;
+}
+
+#about{
+    text-decoration: none;
+    padding-left: 450px;
+}
+
+.col img{
+    max-width: 550px;
+    height: 300px;
+}
+
+.col .card-title{
+    font-family: cursive;
+    font-weight: 800;
+}
+
+.card-title:hover{
+    color: gray;
+    text-decoration: underline peru 4px;
+}
+
+.bgcolumn{
+    border: solid;
+    border: none;
+
+    /* position: relative;
+    z-index: -1;
+     */
+    padding: 5em 0.7em 10em;
+    text-decoration: none;
+    color: gray;
+}
+
+.lookaround h2{
+
+    padding-right: -20px;
+}
+
+#strong{
+    text-align: center;
+    color:brown;
+    font-size: 1.6em;
+}
+
+
+.collapse{
+    text-decoration: underline;
+    color: yellow;
+}
+
+#spain{
+    color: black;
+}
